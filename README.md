@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Harld
+- 👋 Hi, I’m Harald
 - 👀 I’m interested in Stuff
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
